@@ -1,8 +1,8 @@
 export GITACCOUNT=<suyafei>
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing66
 export KUBECONFIG=
 
-export NAMESPACE=
+export NAMESPACE=tektondevops-<suyafei>
 export EMAIL=<827686883@qq.com>
 export INGRESS=
